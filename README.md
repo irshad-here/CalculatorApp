@@ -21,3 +21,27 @@ This is a basic calculator application implemented in C#. It supports arithmetic
    ```bash
    dotnet new console -o CalculatorApp
    cd CalculatorApp
+
+
+2. **Add the Source Files:**
+
+   Replace the generated Program.cs with the provided Program.cs content.
+   Create the following files in the project directory and paste the corresponding code into each file:
+   -Calculator.cs
+   -Parser.cs
+   -CalculatorHistory.cs
+
+2. **Build the Application:**
+   ```bash
+   dotnet build
+   dotnet run
+
+3. **Sample Usage and Output:**
+   ```bash
+   Select an option:
+1. Evaluate Expression
+2. View History (requires authentication)
+3. Exit
+Choice:
+
+
