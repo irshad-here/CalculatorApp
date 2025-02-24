@@ -39,9 +39,9 @@ This is a basic calculator application implemented in C#. It supports arithmetic
 3. **Sample Usage and Output:**
    ```bash
    Select an option:
-   Evaluate Expression
-   View History (requires authentication)
-   Exit
+   1.Evaluate Expression
+   2.View History (requires authentication)
+   3.Exit
    Choice:1
    Enter expression: 1 + 2
    Result: 3
